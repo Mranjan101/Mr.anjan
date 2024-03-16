@@ -21,5 +21,5 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+𓆩‎𝐌𝐫.𝐀𝐧𝐣𝐚𝐧𓆪;BOT+WAS+COMMING+SOON;Coded+By+A-N-J-A-N" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+𓆩‎𝐌𝐫.𝐀𝐧𝐣𝐚𝐧𓆪;BOT+WAS+COMMING+SOON" alt="Typing SVG" /></a>
 <h1 align="center">
