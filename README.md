@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@ababubakarbaloch">
-    <img alt="Abubakar docs" height="300" src="https://telegra.ph/file/7c629c3b42e97f77f914c.jpg">
+    <img alt="Abubakar docs" height="300" src="https://telegra.ph/file/0a9e842f610f618bc2626.jpg">
   </a>
 </p>
 
