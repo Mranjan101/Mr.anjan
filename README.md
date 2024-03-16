@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://wa.me/919883457657?text=𝑯𝒆𝒍𝒍𝒐  𝑩𝒓𝒐...𝑰 𝑨𝒎 𝒀𝒐𝒖𝒓 𝑩𝒊𝒈 𝑭𝒂𝒏 ❤️✨">
-    <img alt="Anjan docs" height="300" src="https://telegra.ph/file/7c629c3b42e97f77f914c.jpg">
+    <img alt="Anjan docs" height="300" src="https://telegra.ph/file/f821845f00264f88952cb.jpg">
   </a>
 </p>
 
